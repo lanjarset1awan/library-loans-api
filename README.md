@@ -333,11 +333,11 @@ GET /api/loans?status=Terlambat
 ## Repository
 
 ```text
-https://github.com/USERNAME/library-loans-api
+https://github.com/lanjarset1awan/library-loans-api
 ```
 
 ## Deployment
 
 ```text
-https://library-loans-api.vercel.app
+https://library-loans-api-ppb1.vercel.app/
 ```
